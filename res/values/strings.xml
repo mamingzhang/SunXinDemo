@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SunXinDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <string name="nearlocation_cancel">取消</string>
+    <string name="nearlocation_setting">设置</string>
+    <string name="nearlocation_openlocationtip">定位服务已关闭，请开启</string>
+    
+    <string name="nearlocation_findlocation">正在确定你的位置</string>
+    <string name="nearlocation_findnearpeople">正在查找你附近的人</string>
+    
+</resources>
